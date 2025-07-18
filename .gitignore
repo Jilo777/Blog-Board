@@ -5,3 +5,4 @@ venv/
 *.log
 *.sqlite3
 *.pyo
+.vscode/

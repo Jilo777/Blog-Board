@@ -1,9 +1,9 @@
-#  Blog Board
+#   Blog Board
 
 A simple, collaborative blog-style platform built with Django for you guys. 
 
 
-## What is it?
+## What is it?..
 
 **Attachee Blog Board** is a lightweight blogging web app where each attachee can:
 
